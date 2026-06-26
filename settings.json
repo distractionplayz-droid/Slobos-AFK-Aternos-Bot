@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nigaSMP00.aternos.me:33793",
+    "ip": "nigaSMP00.aternos.me",
     "port": 33793,
     "version": "",
     "try-creative": false
